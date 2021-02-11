@@ -1,8 +1,10 @@
 # cTHCommunityApp
 Android application made to ease the distribution of cTH tokens to the public . 
 
-Loading Screen
-![Screenshot](Preview/splash.PNG) 
+               Loading Screen       |      Main Activity
+        :-------------------------: |:-------------------------:
+![Screenshot](Preview/splash.PNG)   |  ![Screenshot](Preview/cTHMain.PNG)
 
-Main Activity
-![Screenshot](Preview/cTHMain.PNG)
+
+
+
